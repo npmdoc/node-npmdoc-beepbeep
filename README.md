@@ -1,6 +1,6 @@
 # npmdoc-beepbeep
 
-#### api documentation for  [beepbeep (v1.2.1)](https://github.com/feross/beepbeep#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-beepbeep.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-beepbeep) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-beepbeep.svg)](https://travis-ci.org/npmdoc/node-npmdoc-beepbeep)
+#### basic api documentation for  [beepbeep (v1.2.1)](https://github.com/feross/beepbeep#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-beepbeep.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-beepbeep) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-beepbeep.svg)](https://travis-ci.org/npmdoc/node-npmdoc-beepbeep)
 
 #### Make a console beep noise in Node.js
 
@@ -61,7 +61,8 @@
     "scripts": {
         "test": "standard"
     },
-    "version": "1.2.1"
+    "version": "1.2.1",
+    "bin": {}
 }
 ```
 
